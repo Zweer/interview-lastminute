@@ -1,0 +1,9 @@
+{
+  "name": "interview-lastminute",
+  "version": "0.0.1",
+  "description": "A simple test to use during the interview",
+  "main": "index.js",
+  "repository": "https://github.com/Zweer/interview-lastminute.git",
+  "author": "Zweer <n.olivieriachille@gmail.com>",
+  "license": "MIT"
+}
