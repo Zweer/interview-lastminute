@@ -1,4 +1,4 @@
-# Interview @ Lastminute
+# Interview @ Lastminute [![Build Status](https://travis-ci.org/Zweer/interview-lastminute.svg?branch=master)](https://travis-ci.org/Zweer/interview-lastminute)
 
 The following exercise is sent to you as an additional tool to be used in your technical interview.
 
